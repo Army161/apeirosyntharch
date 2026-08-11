@@ -1,0 +1,12 @@
+{
+  "name": "@apeiro/capability-mesh",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./src/index.ts",
+  "dependencies": {
+    "@apeiro/contracts": "0.1.0",
+    "@modelcontextprotocol/sdk": "1.30.0"
+  }
+}
+

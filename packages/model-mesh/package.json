@@ -1,0 +1,17 @@
+{
+  "name": "@apeiro/model-mesh",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "exports": "./src/index.ts",
+  "dependencies": {
+    "@apeiro/contracts": "0.1.0",
+    "@ai-sdk/anthropic": "4.0.36",
+    "@ai-sdk/google": "4.0.39",
+    "@ai-sdk/openai": "4.0.36",
+    "@ai-sdk/openai-compatible": "3.0.27",
+    "@ai-sdk/xai": "4.0.33",
+    "ai": "7.0.58"
+  }
+}
+
